@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.1.1
+Benjee10sharedAssets 0.2.2
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -14,6 +14,16 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+0.2.2
+  - Added Common Berthing Mechanism (Passive, Active I and Active II variants)
+  - Added Hybrid SSVP-APAS ports (male & female) - compatible with Tantares SSVP ports
+  - Added blue handrail variant for IDA
+  - Added tan variant to APAS and hybrid-type ports to match Tantares
+0.2.1
+  - Added new AJ10 engine part
+  - Soft deprecated old AJ10 part
+  - Added new NDS part
+  - Added new IDA part
 0.1.1 - PUBLIC RELEASE
   - Removed outdated assets
   - Separated HabTechProps into a different mod
@@ -21,4 +31,4 @@ CHANGELOG
   - Initial release
 
 LICENSE
-Artwork is copyright Benedict Jewer 2019-2021. All Rights Reserved.
+Artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved.
